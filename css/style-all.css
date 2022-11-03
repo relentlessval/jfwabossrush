@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Quicksand');
+
+body {
+    font-family: 'Quicksand', "Noto Sans JP";
+    background-image: url("../img/bg.png");
+    background-repeat: repeat;
+}
+.content {
+    margin-left: 5%;
+    margin-right: 5%;
+}
